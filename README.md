@@ -30,48 +30,6 @@ I’m a dedicated and motivated individual currently pursuing an advanced diplom
 
 ---
 
-## Projects 🚀
-
-### 1. **React JS: Fully Functional Messaging Platform**  
-*Built in September 2024*  
-A real-time messaging platform with user authentication, profile management, and chat functionality.  
-- **Tech Stack:** React JS, Firebase  
-- **Features:** Real-time chat, user search, profile editing, blocking users  
-
-### 2. **C#: Hotel Booking Form**  
-*Built in June 2023*  
-A robust hotel booking system with secure payment integration and error handling.  
-- **Tech Stack:** C#, SQL  
-- **Features:** Database connectivity, secure payments, data integrity  
-
-### 3. **React JS: Dynamic Meme Generator**  
-*Built in November 2024*  
-A single-page app for generating memes dynamically by adding captions to random images.  
-- **Tech Stack:** React JS  
-- **Features:** Input fields for captions, random image generation, clear/reset functionality  
-
----
-
-## Education 🎓
-
-**Software Development – Computer Software Development**  
-*Mohawk College | Hamilton, ON | Present – December 2025*  
-- Achieved **100% in HTML** and Networking Courses  
-- First semester average: **92%**  
-- Completed C# (84%) and SQL (80%) courses  
-- Self-taught React JS and built multiple projects  
-
----
-
-## Professional Experience 💼
-
-### **Supervisor**  
-*Tim Hortons | Hamilton, ON | January 2023 – Present*  
-- Led and mentored a team to achieve daily operational goals  
-- Trained new hires, improving overall team performance  
-- Coordinated daily operations, ensuring efficient order fulfillment  
-
----
 
 ## Let's Connect!
 
